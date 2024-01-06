@@ -6,4 +6,5 @@ image:
 
 ![piezo setup](zenaida.jpg)
 
-Send the code to your Arduino using the Arduino IDE and enjoy the song!
+Send the code in `zenaida_leds.ino` to your Arduino using the Arduino IDE
+and enjoy the song!
